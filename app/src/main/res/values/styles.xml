@@ -5,7 +5,7 @@
     </style>
 
     <style name="Text.color" parent="ThemeOverlay.AppCompat">
-        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimary">#FFFC34</item>
     </style>
 
 </resources>

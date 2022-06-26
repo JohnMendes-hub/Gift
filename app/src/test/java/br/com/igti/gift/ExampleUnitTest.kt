@@ -1,4 +1,4 @@
-package com.example.gift
+package br.com.igti.gift
 
 import org.junit.Test
 
